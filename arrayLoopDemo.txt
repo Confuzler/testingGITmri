@@ -5,7 +5,7 @@
 <p id="demo"></p>
 
 <script>
-cars = ["BMW", "Volvo", "Saab", "Ford"];
+cars = ["BMW", "Volvo", "Saab", "Ford", "Ferrari"];
 text = "";
 
 for (var i = 0; i < cars.length; i++) {
